@@ -1,26 +1,26 @@
 {
   "id": "sarasa",
-  "name": "Daily Health App",
-  "short_name": "Daily Health App",
-  "description": "This next.js app is a PWA.",
+  "name": "Daily Health",
+  "short_name": "Daily Health",
+  "description": "Daily Health for care you live",
   "icons": [
     {
-      "src": "./vercel.svg",
+      "src": "./logo.svg",
       "sizes": "72x72",
       "type": "image/svg+xml"
     },
     {
-      "src": "./vercel.svg",
+      "src": "./logo.svg",
       "sizes": "192x192",
       "type": "image/svg+xml"
     },
     {
-      "src": "./vercel.svg",
+      "src": "./logo.svg",
       "sizes": "384x384",
       "type": "image/svg+xml"
     },
     {
-      "src": "./vercel.svg",
+      "src": "./logo.svg",
       "sizes": "512x512",
       "type": "image/svg+xml"
     }
